@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\tesselated">
+      <UniqueIdentifier>{d0ed3a57-fe47-4d80-980b-309f25540ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\tesselated">
+      <UniqueIdentifier>{95bd4dfa-822b-4c74-b7b8-33fef5a8026f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\tesselation">
+      <UniqueIdentifier>{5ac925df-64b0-4282-8855-1c7cc5924cb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shadow">
+      <UniqueIdentifier>{f55d2e72-a49d-4e66-bf14-bc34ff93e865}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\shadow">
+      <UniqueIdentifier>{ac06aaed-fa09-4f3c-841d-8f130e0eb568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\utils">
+      <UniqueIdentifier>{aedbe44b-47d6-4881-903d-92be2c059266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utils">
+      <UniqueIdentifier>{642c0455-d0e7-4aea-a66a-e053c1872f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Depth">
+      <UniqueIdentifier>{7cd33402-15f0-4418-aa8a-63ec1afed75f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Depth">
+      <UniqueIdentifier>{70e6a56d-1ff1-4d20-8daf-50b91c46dcf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\texture">
+      <UniqueIdentifier>{ae20a2f1-aede-440d-a681-8f29a68ad547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\water">
+      <UniqueIdentifier>{96d6b156-6a9e-4bdb-979a-2477001ed0b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\blur">
+      <UniqueIdentifier>{715e39cc-dcb4-4de8-b031-e6af745c5620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\blur">
+      <UniqueIdentifier>{1a82f2d0-8fd3-4e17-b457-c48fdb9a3af6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\blur">
+      <UniqueIdentifier>{547828cd-4e36-44a8-b3cd-d513f045513e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\shadow">
+      <UniqueIdentifier>{acb88c68-ecb4-42eb-9eac-990488ee985f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\depth">
+      <UniqueIdentifier>{223d1f44-e66f-46bf-9cf4-7e8e85e8391e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TesselatedPlane.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="TesselationShader.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterShader.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowShader.cpp">
+      <Filter>Source Files\shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderFunctions.cpp">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="HorizontalBlur.cpp">
+      <Filter>Source Files\blur</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalBlur.cpp">
+      <Filter>Source Files\blur</Filter>
+    </ClCompile>
+    <ClCompile Include="TesselationDepthShader.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="TessellatedPlaneWithGeometry.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="TesselationgeometryDepthShader.cpp">
+      <Filter>Source Files\tesselated</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="TessShadowShader2.cpp">
+      <Filter>Source Files\shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="DepthOfFieldShader.cpp">
+      <Filter>Source Files\Depth</Filter>
+    </ClCompile>
+    <ClCompile Include="DepthShader.cpp">
+      <Filter>Source Files\Depth</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TesselatedPlane.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="WaterShader.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="TesselationShader.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowShader.h">
+      <Filter>Header Files\shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="LightBuffer.h">
+      <Filter>Header Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderFunctions.h">
+      <Filter>Header Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthShader.h">
+      <Filter>Header Files\Depth</Filter>
+    </ClInclude>
+    <ClInclude Include="HorizontalBlur.h">
+      <Filter>Header Files\blur</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalBlur.h">
+      <Filter>Header Files\blur</Filter>
+    </ClInclude>
+    <ClInclude Include="TesselationDepthShader.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="TessellatedPlaneWithGeometry.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="TesselationgeometryDepthShader.h">
+      <Filter>Header Files\tesselated</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthOfFieldShader.h">
+      <Filter>Header Files\Depth</Filter>
+    </ClInclude>
+    <ClInclude Include="TessShadowShader2.h">
+      <Filter>Header Files\shadow</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="texture_ps.hlsl">
+      <Filter>Resource Files\texture</Filter>
+    </FxCompile>
+    <FxCompile Include="texture_vs.hlsl">
+      <Filter>Resource Files\texture</Filter>
+    </FxCompile>
+    <FxCompile Include="water_ds.hlsl">
+      <Filter>Resource Files\water</Filter>
+    </FxCompile>
+    <FxCompile Include="water_hs.hlsl">
+      <Filter>Resource Files\water</Filter>
+    </FxCompile>
+    <FxCompile Include="water_ps.hlsl">
+      <Filter>Resource Files\water</Filter>
+    </FxCompile>
+    <FxCompile Include="water_vs.hlsl">
+      <Filter>Resource Files\water</Filter>
+    </FxCompile>
+    <FxCompile Include="directionalBlur_ps.hlsl">
+      <Filter>Resource Files\blur</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBlur_ps.hlsl">
+      <Filter>Resource Files\blur</Filter>
+    </FxCompile>
+    <FxCompile Include="horizontalBlur_vs.hlsl">
+      <Filter>Resource Files\blur</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBlur_ps.hlsl">
+      <Filter>Resource Files\blur</Filter>
+    </FxCompile>
+    <FxCompile Include="verticalBlur_vs.hlsl">
+      <Filter>Resource Files\blur</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellation_vs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellation_ps.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellation_hs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellation_ds.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_ps.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_vs.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="Depth_ps.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="Depth_vs.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationDepth_ps.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="geometryDepth_hs.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="geometryDepth_ds.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="geometryDepth_gs.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="geometryDepth_vs.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="geometryDepth_ps.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationDepth_vs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationDepth_hs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationDepth_ds.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationShadow2_vs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationShadow2_ps.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationShadow2_hs.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="tessellationShadow2_ds.hlsl">
+      <Filter>Resource Files\tesselation</Filter>
+    </FxCompile>
+    <FxCompile Include="geometry_ds.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="geometry_gs.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="geometry_hs.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="geometry_ps.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="geometry_vs.hlsl">
+      <Filter>Resource Files\shadow</Filter>
+    </FxCompile>
+    <FxCompile Include="depthOfField_vs.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+    <FxCompile Include="depthOfField_ps.hlsl">
+      <Filter>Resource Files\depth</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

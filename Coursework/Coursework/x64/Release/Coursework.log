@@ -1,0 +1,92 @@
+﻿  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\texture_ps.cso
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\texture_vs.cso
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\verticalBlur_ps.cso
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\verticalBlur_vs.cso
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\water_ds.hlsl(67,12-66): warning X3206: implicit truncation of vector type
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\water_ds.hlsl(71,5): warning X3206: implicit truncation of vector type
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\water_ds.hlsl(76,5-155): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\water_ds.cso
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\water_hs.hlsl(57,9-19): warning X3556: integer modulus may be much slower, try using uints if possible.
+  
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\water_hs.cso
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\water_ps.cso
+  compilation object save succeeded; see F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\water_vs.cso
+  App1.cpp
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(91,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(92,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(377,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(378,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(389,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(390,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(401,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(402,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(473,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(474,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(485,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(486,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(497,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(498,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(731,55): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(735,57): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(752,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(753,44): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(777,155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(777,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(778,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(778,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(779,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(779,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(780,155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(780,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(781,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(781,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(782,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(782,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(783,154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(783,134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(784,155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(784,134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(785,155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(785,134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(786,154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(786,134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(787,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(787,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(788,156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(788,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(789,159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(789,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(789,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(855,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(858,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(859,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(983,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(984,55): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(985,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(986,51): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(1001,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(1079,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  DepthOfFieldShader.cpp
+  DepthShader.cpp
+  HorizontalBlur.cpp
+  Main.cpp
+  ShaderFunctions.cpp
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\ShaderFunctions.cpp(11,29): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  ShadowShader.cpp
+  TesselationgeometryDepthShader.cpp
+  TesselatedPlane.cpp
+  TesselationDepthShader.cpp
+  TesselationShader.cpp
+  TessellatedPlaneWithGeometry.cpp
+  TessShadowShader2.cpp
+  TextureShader.cpp
+  VerticalBlur.cpp
+  WaterShader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(1120): warning C4715: 'App1::ChangeHeightMapTexture': not all control paths return a value
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\Coursework\App1.cpp(1104): warning C4715: 'App1::ChangeHeightMap': not all control paths return a value
+  All 1718 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Coursework.vcxproj -> F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\x64\Release\Coursework.exe

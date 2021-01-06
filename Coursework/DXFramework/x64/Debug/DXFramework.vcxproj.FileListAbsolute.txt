@@ -1,0 +1,4 @@
+C:\Users\Dardarus\Downloads\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86-master\Coursework\lib\Debug\DXFramework.pdb
+C:\Users\Dardarus\Downloads\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86-master\Coursework\DXFramework\x64\Debug\DXFramework.pdb
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\lib\Debug\DXFramework.pdb
+F:\C++\CMP301\submission\cmp301_coursework-dardarus86-master\cmp301_coursework-dardarus86\Coursework\DXFramework\x64\Debug\DXFramework.pdb
